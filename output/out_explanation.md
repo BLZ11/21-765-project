@@ -19,11 +19,10 @@ For more information on BEBOP theory, please read the [BEBOP manuscript](https:/
 
 ## ```GROSS SIGMA```-, ```GROSS PI```-, and ```GROSS TOTAL```- ```BOND ENERGIES INCLUDING REPULSION``` Data
 
-These three tables depicts the gross bond energies. The tables have similar characteristics which include:
-1. the positive integer numbers presented in the column and rows represents the center number (or the number representing the position of the 
-atom relative to the top atom introduced in the matrix)
-2. lower diagonal square gross bond energy matrices all in kcal/mol (the dimensions are equal to the amount of atoms present in the molecule)
-3. the sum of all elements within the array gives the total gross energy value (depicted as ```TOTAL GROSS...```)
+These three tables depict the gross bond energies. The tables have similar characteristics which include:
+1. the center number in the columns and rows, or the number representing the position of the atom relative to the top atom introduced in the matrix.
+2. lower diagonal square gross bond energy matrices are in kcal/mol units. The matrices dimensions are equal to the amount of atoms present in the molecule.
+3. the sum of all elements within each array gives the total gross energy value (depicted as ```TOTAL GROSS...```)
 
 The total bond energies are computed similar to the previous equation, except no E_hyb. Sigma bond energies and pi bond energies were computed
 using that equation, but the bond orders were computed from the BEBOP program under the ```roothan.py``` module. The bond orders used for the total 
