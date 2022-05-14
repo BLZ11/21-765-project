@@ -1,6 +1,6 @@
 # Bond Energy/Bond Order Population (Beta Version)
 
-The bond energy/bond order population (BEBOP) is a computational chemistry algorithm that computes accurate molecular energies at equilibrium and bond energies using well-conditioned Hartree-Fock orbital populations and bond orders.
+The bond energy/bond order population ([BEBOP]()) program is a computational chemistry algorithm that computes accurate molecular energies at equilibrium and bond energies using well-conditioned Hartree-Fock orbital populations and bond orders.
 
 This is a beta version of the code. 
 
