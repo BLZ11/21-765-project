@@ -38,13 +38,19 @@ optional arguments:
               energy)
   --json      save the job output into JSON
 ```
+## Directory Information
+* ```codes```- contains the BEBOP program codes
+* ```tests```- contains some Gaussian Hartree-Fock output files
+* ```output```- contains the some output file examples
 
 ## Important Documents
 For information regarding the modules present in the BEBOP program, visit:
-*```codes/code_explanation.md```
+* ```codes/code_explanation.md```
 
 For infromation regarding the data printed by the BEBOP program, visit:
-*```tests/```
+* ```output/out_explanation.md```
+
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
