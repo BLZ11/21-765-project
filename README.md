@@ -39,7 +39,12 @@ optional arguments:
   --json      save the job output into JSON
 ```
 
+## Important Documents
+For information regarding the modules present in the BEBOP program, visit:
+*```codes/bebop```
 
+For infromation regarding the data printed by the BEBOP program, visit:
+*```tests/```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
