@@ -15,4 +15,7 @@ E_rep is the nuclear-nuclear repulsive interaction that occurs at small distance
 and E_hyb is the orbital hybridization energy from exciting an electron from the 2s
 to 2p orbital.
 
-For information on BEBOP theory please read the [BEBOP manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/624dff79855ee54b39e40518)
+For information on BEBOP theory please read the [BEBOP manuscript](https://chemrxiv.org/engage/chemrxiv/article-details/624dff79855ee54b39e40518).
+
+## ```GROSS SIGMA BOND ENERGIES INCLUDING REPULSION```, ```GROSS PI BOND ENERGIES INCLUDING REPULSION```, ```GROSS TOTAL BOND ENERGIES INCLUDING REPULSION```
+
