@@ -1,6 +1,6 @@
 # Bond Energy/Bond Order Population (Beta Version)
 
-The bond energy/bond order population ([BEBOP]()) program is a computational chemistry algorithm that computes accurate molecular energies at equilibrium and bond energies using well-conditioned Hartree-Fock orbital populations and bond orders.
+The bond energy/bond order population ([BEBOP](https://chemrxiv.org/engage/chemrxiv/article-details/624dff79855ee54b39e40518)) program is a computational chemistry algorithm that computes accurate molecular energies at equilibrium and bond energies using well-conditioned Hartree-Fock orbital populations and bond orders from approximate quantum chemistry methods. 
 
 This is a beta version of the code. 
 
@@ -16,7 +16,7 @@ All Python codes are available under the ```codes``` directory.
 
    ```# SP ROHF/CBSB3 Pop=(Full) IOp(6/27=122)```
 
-3. Execute ```bebop.py```. Execute this in the command line:
+3. Execute ```bebop.py```. Run this in the command line:
   ```bash
 ./bebop.py -f {name_file} --be --sort --json > {name_file}.bop
 ```
@@ -25,7 +25,7 @@ where ```{name_file}``` is the Hartree-Fock Gaussian output file.
 Some examples of Hartree-Fock output files and BEBOP results are found in the ```tests``` and ```output``` directories, respectively. 
 
 ## Usage
-Some details of the argument parser used in ```bebop.py``` source code.
+Some details of the parsers used in ```bebop.py``` source code.
 
 ```bash
 usage: bebop.py [-h] -f F [--be] [--sort] [--json]
