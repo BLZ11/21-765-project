@@ -1,0 +1,112 @@
+
+
+
+                    SUMMARY OF BEBOP CALCULATION
+
+                        BEBOP (Version 1.0.0)
+                       13-May-2022 21:05:32
+
+
+   HARTREE-FOCK OUTPUT:  /ihome/jkeith/blz11/Miscellaneous/BEBOP2_Project/BEBOP_Codes/BEBOP_G1/tests/CH4.out
+
+
+   BEBOP ATOMIZATION ENERGY (0 K)     =     -392.06828677364865 KCAL/MOL
+
+
+   GROSS SIGMA BOND ENERGIES INCLUDING REPULSION
+                   1          2          3          4          5
+     1     C     0.00
+     2     H  -125.76       0.00
+     3     H  -125.76       6.36       0.00
+     4     H  -125.76       6.36       6.36       0.00
+     5     H  -125.76       6.36       6.36       6.36       0.00
+
+
+   TOTAL GROSS SIGMA ENERGY     =     -464.87 KCAL/MOL
+
+
+   GROSS PI BOND ENERGIES INCLUDING REPULSION
+                   1          2          3          4          5
+     1     C     0.00
+     2     H     0.00       0.00
+     3     H     0.00      -0.00       0.00
+     4     H     0.00      -0.00      -0.00       0.00
+     5     H     0.00      -0.00      -0.00      -0.00       0.00
+
+
+   TOTAL GROSS PI  ENERGY     =     0.00 KCAL/MOL
+
+
+   GROSS TOTAL BOND ENERGIES INCLUDING REPULSION
+                   1          2          3          4          5
+     1     C     0.00
+     2     H  -125.76       0.00
+     3     H  -125.76       6.36       0.00
+     4     H  -125.76       6.36       6.36       0.00
+     5     H  -125.76       6.36       6.36       6.36       0.00
+
+
+   TOTAL GROSS ENERGY     =     -464.87 KCAL/MOL
+
+
+   NET SIGMA BOND ENERGIES INCLUDING HYBRIDIZATION
+                   1          2          3          4          5
+     1     C     0.00
+     2     H  -107.56       0.00
+     3     H  -107.56       6.36       0.00
+     4     H  -107.56       6.36       6.36       0.00
+     5     H  -107.56       6.36       6.36       6.36       0.00
+
+
+   TOTAL NET SIGMA ENERGY     =     -392.07 KCAL/MOL
+
+
+   NET PI BOND ENERGIES INCLUDING HYBRIDIZATION
+                   1          2          3          4          5
+     1     C     0.00
+     2     H     0.00       0.00
+     3     H     0.00      -0.00       0.00
+     4     H     0.00      -0.00      -0.00       0.00
+     5     H     0.00      -0.00      -0.00      -0.00       0.00
+
+
+   TOTAL NET PI BOND ENERGY     =     0.00 KCAL/MOL
+
+
+   NET TOTAL ENERGIES INCLUDING HYBRIDIZATION
+                   1          2          3          4          5
+     1     C     0.00
+     2     H  -107.56       0.00
+     3     H  -107.56       6.36       0.00
+     4     H  -107.56       6.36       6.36       0.00
+     5     H  -107.56       6.36       6.36       6.36       0.00
+
+
+   TOTAL NET ENERGY     =     -392.07 KCAL/MOL
+
+
+   COMPOSITE TABLE:    EII(HYBRID)  EIJ(GROSS)
+                       EJI(NET)     EJJ(HYBRID)
+                   1          2          3          4          5
+     1     C    72.80    -125.76    -125.76    -125.76    -125.76
+     2     H  -107.56       0.00       6.36       6.36       6.36
+     3     H  -107.56       6.36       0.00       6.36       6.36
+     4     H  -107.56       6.36       6.36       0.00       6.36
+     5     H  -107.56       6.36       6.36       6.36       0.00
+
+
+   TOTAL HYBRIDIZATION ENERGY     =     72.80 KCAL/MOL
+
+
+  SORTED NET BONDING ENERGIES (LOWEST TO HIGHEST)
+
+  ----------------------------
+     BOND       BOND ENERGIES 
+   IDENTITY       (KCAL/MOL)  
+  ----------------------------
+      C1-H2         -107.56
+      C1-H3         -107.56
+      C1-H4         -107.56
+      C1-H5         -107.56
+  ----------------------------
+
