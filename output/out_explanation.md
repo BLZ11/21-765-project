@@ -6,11 +6,11 @@ Contains the path where the Hartree-Fock output file is located.
 
 ## ```BEBOP ATOMIZATION ENERGY (0 K) = ```
 Total BEBOP atomization energy computed with zero-point vibration energy. 
-This energy ($E_{\text{AT},0}$) computed as:
+This energy (E_0) computed as:
 
-$$\Delta E_{\text{AT},0} = E_{\text{cov}} + E_{\text{rep}} + E_{\text{hyb}}$$
+E_0 = E_cov + E_rep + E_hyb
 
-where $E_{\text{cov}}$ is the energy of a covalent bond (from approximate quantum chemistry),
-$E_{\text{rep}}$ is the nuclear-nuclear repulsive interaction that occurs at small distances,
-and $E_{\text{hyb}}$ is the orbital hybridization energy from exciting an electron from the $2s$
-to $2p$. 
+where $E_cov$ is the energy of a covalent bond (from approximate quantum chemistry),
+$E_rep$ is the nuclear-nuclear repulsive interaction that occurs at small distances,
+and $E_hyb$ is the orbital hybridization energy from exciting an electron from the 2s
+to 2p orbital. 
