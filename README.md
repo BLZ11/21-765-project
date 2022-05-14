@@ -41,7 +41,7 @@ optional arguments:
 ## Directory Information
 * ```codes```- contains the BEBOP program codes
 * ```tests```- contains some Gaussian Hartree-Fock output files
-* ```output```- contains the some output file examples
+* ```output```- contains BEBOP output file examples
 
 ## Important Documents
 For information regarding the modules present in the BEBOP program, visit:
